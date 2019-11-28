@@ -1,0 +1,24 @@
+.container {
+    position: fixed;
+    margin-top: 300px;
+    margin-bottom: 500px;
+    margin-left: 400px;
+    margin-right:200px;
+    border-width: 3rem;
+    border-color: red;
+    width: 500px;
+    padding: 50px 50 px 100px 100px;
+}
+
+.input {
+    
+    margin-left: 200px;
+    margin-top: 20px;
+    
+
+}
+
+.element {
+    align-self: right;
+   
+}
